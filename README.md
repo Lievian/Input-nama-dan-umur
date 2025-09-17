@@ -1,2 +1,2 @@
 # Input-nama-dan-umur
-Rizal Herudin 
+Tugas kuliah semester 1
